@@ -50,7 +50,7 @@ Evaluates the popularity of different payment services.
 Reveals weekday and weekend usage patterns.
 📷 Dashboard Preview
 
-7- Screenshots:
+7- Screenshots:https://github.com/Tanishka-dot/Phonepe-Dashboard/blob/main/Screenshot%202026-06-26%20183306.png
 
 
 
